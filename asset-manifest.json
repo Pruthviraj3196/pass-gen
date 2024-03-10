@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pass-gen/static/css/main.c0363cbc.css",
+    "main.js": "/pass-gen/static/js/main.dfd6f3bb.js",
+    "static/js/453.ed3810f9.chunk.js": "/pass-gen/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/pass-gen/index.html",
+    "main.c0363cbc.css.map": "/pass-gen/static/css/main.c0363cbc.css.map",
+    "main.dfd6f3bb.js.map": "/pass-gen/static/js/main.dfd6f3bb.js.map",
+    "453.ed3810f9.chunk.js.map": "/pass-gen/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0363cbc.css",
+    "static/js/main.dfd6f3bb.js"
+  ]
+}
